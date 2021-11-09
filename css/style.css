@@ -546,7 +546,7 @@ section{
 
 .deal .image img{
     width: 100%;
-    width:300px;
+    /* width:300px; */
     /* object-fit: cover; */
 }
 
@@ -584,6 +584,7 @@ section{
     width:7rem;
     border-radius: 50%;
     object-fit: cover;
+
 }
 
 .reviews .reviews-slider .box h3{
